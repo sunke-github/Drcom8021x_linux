@@ -12,7 +12,7 @@ Drcom8021x 软件是根据 EasyDrcom软件重构而来,该源码地址:https://g
 ##编译软件:
 
 使用Linux 下的CDT 创建和编译该工程. 编译时请在 
-工程->Properities->C/C++ Build->Settings->GCC C++ Compiler 中添加 -std=c++11
+工程->Properities->C/C++ Build->Settings->GCC C++ Compiler 中添加 -std=c++11<br>
 工程->Properities->C/C++ Build->Settings->GCC C++ Linker  Miscellaneous中 添加 -lpcap
 
 
