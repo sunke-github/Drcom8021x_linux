@@ -1,0 +1,363 @@
+2015-05-17 17:05:36 [Drcom8021x Debug] General.UserName = 2012021048, General.PassWord = 111111, General.Mode = 2
+2015-05-17 17:05:36 [Drcom8021x Debug] General.AutoOnline = True, General.AutoRedial = True
+2015-05-17 17:05:36 [Drcom8021x Debug] Remote.IP:Port = 192.168.255.193:61440, Remote.UseBroadcast = True
+2015-05-17 17:05:36 [Drcom8021x Debug] Local.NIC = enp0s8, Local.HostName = EasyDrcom for HITwh, Local.KernelVersion = Linux -gogon 3.10.0-229
+2015-05-17 17:05:36 [Drcom8021x Debug] Local.EAPTimeout = 1000, Local.UDPTimeout = 2000
+2015-05-17 17:05:36 [Drcom8021x Info] Fetch NIC IP & MAC successfully.
+2015-05-17 17:05:36 [Drcom8021x Info] Local.IP = 172.21.3.24, Local.MAC = 08:00:27:e5:78:cc
+2015-05-17 17:05:36 [Drcom8021x Info] Loaded config successfully.
+2015-05-17 17:05:36 [EAP Info] Start.
+2015-05-17 17:05:36 [EAP Error] Start: 
+2015-05-17 17:05:36 [EAP Debug] Recevied after Start, eapol_type = 0x0, eap_id = 0x1, eap_type = 0x1, eap_length = 500
+2015-05-17 17:05:36 [EAP Info] Gateway returns: Request, Identity
+2015-05-17 17:05:36 [EAP Info] Response, Identity.
+2015-05-17 17:05:36 [EAP Error] Response, Identity: 
+2015-05-17 17:05:36 [EAP Debug] Recevied after Response, Identity, eapol_type = 0x0, eap_id = 0x0, eap_type = 0x4, eap_length = 1a00
+2015-05-17 17:05:36 [EAP Info] Gateway returns: Request, MD5-Challenge EAP
+2015-05-17 17:05:36 [EAP Info] Response, MD5-Challenge EAP.
+2015-05-17 17:05:36 [EAP Error] Response, MD5-Challenge EAP: 
+2015-05-17 17:05:36 [EAP Debug] Recevied after Response, MD5-Challenge EAP, eapol_type = 0x0, eap_id = 0x0, eap_type = 0x0, eap_length = 400
+2015-05-17 17:05:36 [EAP Info] Gateway returns: Success
+2015-05-17 17:05:37 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:05:39 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:05:41 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:05:41 [Drcom8021x Info] online time is 5s
+2015-05-17 17:05:43 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:05:45 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:05:47 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:05:49 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:05:51 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:05:53 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:05:55 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:05:56 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:05:56 [Drcom8021x Info] online time is 20s
+2015-05-17 17:05:58 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:00 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:02 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:04 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:06 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:08 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:10 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:11 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:06:11 [Drcom8021x Info] online time is 35s
+2015-05-17 17:06:13 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:15 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:17 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:19 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:21 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:23 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:25 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:26 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:06:26 [Drcom8021x Info] online time is 50s
+2015-05-17 17:06:28 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:30 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:32 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:34 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:36 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:38 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:40 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:41 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:06:41 [Drcom8021x Info] online time is 65s
+2015-05-17 17:06:43 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:45 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:47 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:49 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:51 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:53 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:55 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:06:56 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:06:56 [Drcom8021x Info] online time is 80s
+2015-05-17 17:06:58 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:00 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:02 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:04 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:06 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:08 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:10 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:11 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:07:11 [Drcom8021x Info] online time is 95s
+2015-05-17 17:07:13 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:15 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:17 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:19 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:21 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:23 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:25 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:26 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:07:26 [Drcom8021x Info] online time is 110s
+2015-05-17 17:07:28 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:30 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:32 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:34 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:36 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:38 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:40 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:41 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:07:41 [Drcom8021x Info] online time is 125s
+2015-05-17 17:07:43 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:45 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:47 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:49 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:51 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:53 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:55 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:07:56 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:07:56 [Drcom8021x Info] online time is 140s
+2015-05-17 17:07:58 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:00 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:02 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:04 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:06 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:08 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:10 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:11 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:08:11 [Drcom8021x Info] online time is 155s
+2015-05-17 17:08:13 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:15 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:17 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:19 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:21 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:23 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:25 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:26 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:08:26 [Drcom8021x Info] online time is 170s
+2015-05-17 17:08:28 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:30 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:32 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:34 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:36 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:38 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:40 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:41 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:08:41 [Drcom8021x Info] online time is 185s
+2015-05-17 17:08:43 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:45 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:47 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:49 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:51 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:53 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:55 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:08:56 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:08:56 [Drcom8021x Info] online time is 200s
+2015-05-17 17:08:58 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:00 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:02 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:04 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:06 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:08 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:10 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:11 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:09:11 [Drcom8021x Info] online time is 215s
+2015-05-17 17:09:13 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:15 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:18 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:20 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:22 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:24 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:26 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:27 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:09:27 [Drcom8021x Info] online time is 231s
+2015-05-17 17:09:29 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:31 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:33 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:35 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:37 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:39 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:41 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:42 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:09:42 [Drcom8021x Info] online time is 246s
+2015-05-17 17:09:44 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:46 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:48 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:50 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:52 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:54 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:56 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:09:57 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:09:57 [Drcom8021x Info] online time is 261s
+2015-05-17 17:09:59 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:01 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:03 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:05 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:07 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:09 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:11 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:12 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:10:12 [Drcom8021x Info] online time is 276s
+2015-05-17 17:10:14 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:16 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:18 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:20 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:22 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:24 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:26 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:27 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:10:27 [Drcom8021x Info] online time is 291s
+2015-05-17 17:10:29 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:31 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:33 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:35 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:37 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:39 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:41 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:42 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:10:42 [Drcom8021x Info] online time is 306s
+2015-05-17 17:10:44 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:46 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:48 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:50 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:52 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:54 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:56 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:10:57 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:10:57 [Drcom8021x Info] online time is 321s
+2015-05-17 17:10:59 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:01 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:03 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:05 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:07 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:09 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:11 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:12 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:11:12 [Drcom8021x Info] online time is 336s
+2015-05-17 17:11:14 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:16 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:18 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:20 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:22 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:24 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:26 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:27 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:11:27 [Drcom8021x Info] online time is 351s
+2015-05-17 17:11:29 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:31 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:33 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:35 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:37 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:39 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:41 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:42 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:11:42 [Drcom8021x Info] online time is 366s
+2015-05-17 17:11:44 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:46 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:48 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:50 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:52 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:54 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:56 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:11:57 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:11:57 [Drcom8021x Info] online time is 381s
+2015-05-17 17:11:59 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:01 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:03 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:05 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:07 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:09 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:11 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:12 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:12:12 [Drcom8021x Info] online time is 396s
+2015-05-17 17:12:14 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:16 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:18 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:20 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:22 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:24 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:26 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:27 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:12:27 [Drcom8021x Info] online time is 411s
+2015-05-17 17:12:29 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:31 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:33 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:35 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:37 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:39 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:41 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:42 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:12:42 [Drcom8021x Info] online time is 426s
+2015-05-17 17:12:44 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:46 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:48 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:50 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:52 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:54 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:56 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:12:57 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:12:57 [Drcom8021x Info] online time is 441s
+2015-05-17 17:12:59 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:01 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:03 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:05 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:07 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:09 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:11 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:12 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:13:12 [Drcom8021x Info] online time is 456s
+2015-05-17 17:13:14 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:16 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:18 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:20 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:22 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:24 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:26 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:27 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:13:27 [Drcom8021x Info] online time is 471s
+2015-05-17 17:13:29 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:31 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:33 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:35 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:37 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:39 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:41 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:42 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:13:42 [Drcom8021x Info] online time is 486s
+2015-05-17 17:13:44 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:46 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:48 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:50 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:52 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:54 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:13:56 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
+2015-05-17 17:13:56 [Drcom8021x Info] online time is 500s
+2015-05-17 17:13:58 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:14:00 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:14:02 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:14:04 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:14:06 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:14:08 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:14:10 [EAP Error] Active, Identity. Could ignore this error!: pcap_next_ex: timeout.
+2015-05-17 17:14:11 [EAP Error] Active, Identity. Could ignore this error!: 
+############## Send Successfully ###########
