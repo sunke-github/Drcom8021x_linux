@@ -10,6 +10,7 @@ Drcom8021x 软件是根据 EasyDrcom软件重构而来,该源码地址:https://g
 该软件可以实现 drcom的 802.1x 认证.适用于部分地区和学校. 省略原EasyDrcom 认证模式和注销功能. 
 
 ##编译软件:
+软件在编译调试过程中如果无法找到配置文件,请修改 def.h 中的路径为绝对路径.
 
 使用Linux 下的CDT 创建和编译该工程. 编译时请在 
 工程->Properities->C/C++ Build->Settings->GCC C++ Compiler 中添加 -std=c++11<br>
