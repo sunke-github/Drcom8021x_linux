@@ -22,4 +22,4 @@ Drcom8021x 软件是根据 EasyDrcom软件重构而来,该源码地址:https://g
 该软件是做交流学习使用,请勿用作非法用途. 使用本软件带来的法律问题由使用者付全责与软件作者无关.
 
 ## 个人网站与联系方式
-www.shareideas.net
+www.shareideas.top
